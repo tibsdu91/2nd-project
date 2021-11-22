@@ -1,4 +1,4 @@
-SYMBOLIC COMPUTATION SECOND PROJECT : CLOJURE CHATBOT
+                                                      SYMBOLIC COMPUTATION SECOND PROJECT : CLOJURE CHATBOT
                                                          
                                                          
 ![My Post](https://user-images.githubusercontent.com/92300609/140782329-167cf542-f4b9-491d-afe7-f1a621d2b066.jpg)
@@ -67,16 +67,15 @@ CHATBOT : "HI Bastien, INFORMATIONS OR HELP ?"
 
 USER : "INFORMATION"
 
-CHATBOT : "About which park ?"
+CHATBOT : " ?"
 
-USER : "Kampa" 
+USER : "" 
 
-CHATBOT : "The kampa park, ok no problem what do you want to know ?"
+CHATBOT : " ?"
 
-USER : "Transport"
+USER : ""
 
-CHATBOT : "TRAM 4,16 and 22" 
-          "Any other questions"
+CHATBOT : "" 
 
 USER : "NO,thanks"
 
