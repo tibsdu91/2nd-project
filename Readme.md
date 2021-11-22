@@ -1,7 +1,7 @@
                                                       SYMBOLIC COMPUTATION SECOND PROJECT : CLOJURE CHATBOT
                                                          
                                                          
-![Chatbot ICA2](https://user-images.githubusercontent.com/92035726/142900939-5a86d318-475b-40ca-a35f-d8c5fcc0f29c.png)
+                       ![Chatbot ICA2](https://user-images.githubusercontent.com/92035726/142900939-5a86d318-475b-40ca-a35f-d8c5fcc0f29c.png)
 
 
 The project is to create a chatbot in Clojure in a teamwork.
