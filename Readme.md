@@ -91,7 +91,7 @@ ___________________________________________
 If the users have any problems or need any informatons they can say "HELP" to get the e-mail which can help them for any request.
 The e-mail is : help@praguecollege.cz
 
-in the future, we can involve this chatbot into giving further informations about any location and give more precise informations about any requests from a tourist.
+In the future, we can involve this chatbot into giving further informations about any location and give more precise informations about any requests from a tourist.
 
 We are open into welcoming contributors only if they are motivated into helping improve this chatbot taking into account users criticizes.
 They also have to know Prague City precisely. It will be important for the future of this chatbot.
