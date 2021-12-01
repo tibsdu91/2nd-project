@@ -17,8 +17,7 @@
 (def location #{"location" "LOCATION" "position" "POSITION" "place" "PLACE" "locality" "LOCALITY" })
 (def parking #{"parking" "car" "Parking" "Car"})
 (def étinéraire #{"itinerary" "Itinerary" "Path" "path" "PATH"})
-
-
+(def hello #{"hello" "Hello" "HELLO"}) 
  (defn restart[]
         (println "Program finish...   Thank's you") (shutdown-agents) )
 
