@@ -18,39 +18,30 @@
 (def parking #{"parking" "car" "Parking" "Car"})
 (def étinéraire #{"itinerary" "Itinerary" "Path" "path" "PATH"})
 (def hello #{"hello" "Hello" "HELLO"}) 
- (defn restart[]
+  (defn restart[]
         (println "Program finish...   Thank's you") (shutdown-agents) )
 
-(println "For start the chatbot enter hello:")
+(println "1st Project of Symbolic Computation, chatbot Bastien")
+(println " ")
 
+(println "For start the chatbot say: hello")
 (let [yayinput (read-line)]
   (cond
   (contains? hello yayinput)
   (println "Program starting...")
   :else ((restart) println " ")))
 
-
-
-(println "1st Project of Symbolic Computation, chatbot Bastien")
 (println " ")
-
-(println "Hello, do you whant to start the chatbot Y/N?:  ")
- (let [yayinput (read-line)]
-  (if (= yayinput "Y")
-    (println "Ok let's start!")
-   ((restart) println "wrong")))
-
 (println "What's your name ?: ")
 (def x (read-line))
-(println "Hello"x"!")
+(println "Hello"x",let's start !")
 (println " ")
-
 
 (println "###################################################################")
 
 (println "Here are all the parks in Prague:")
 (println Parc2)
-(println "[PRESS ENTER]")
+(println "[PRESS ENTER FOR CONTINUE]")
 (def r (read-line))
 
 
