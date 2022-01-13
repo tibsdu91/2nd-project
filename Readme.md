@@ -18,7 +18,7 @@ This chatbot used to be clear, easy to use and follow a ELIZA structure.
 
 First, you need to install clojure, just follow the instruction on: https://clojure.org/guides/getting_started
 
-Then start with "hello" and follow the command to ask your request.
+Then start with the command "clojure 2project.clj" and followthe instructions.
 
 ## USAGE
 
