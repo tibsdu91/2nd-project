@@ -6,7 +6,7 @@
 
 
 The project here  is to create a chatbot in Clojure in a teamwork.
-We have to follow several conditions which can help any tourists to get precious informations about two kinds of birds : robin and  in this city. 
+We have to follow several conditions which can help any tourists to get precious informations about two kinds of birds : robin and magpie in all parks of this city. 
 
 Our chatbot can give informations, answer simple questions and also simplify the life of foreign tourists effectively.
 
@@ -110,7 +110,7 @@ ___________________________________________
 If the users have any problems or need any informatons they can say "HELP" to get the e-mail which can help them for any request.
 The e-mail is : help@praguecollege.cz
 
-In the future, we will be able to involve this chatbot to give more information about any place and give more precise information about any request of a tourist. For the moment this chatbot gives information about the birds and Park. 
+In the future, we will be able to involve this chatbot to give more information about any birds and give more precise information about any request of a tourist. For the moment this chatbot gives information about the birds and Park. 
 
 We are open into welcoming contributors only if they are motivated into helping improve this chatbot taking into account users criticizes.
 They also have to know Prague City precisely. It will be important for the future of this chatbot.
