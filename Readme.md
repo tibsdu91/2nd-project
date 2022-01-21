@@ -70,15 +70,34 @@ CHATBOT : "HI Bastien, INFORMATIONS OR HELP ?"
 
 USER : "INFORMATION"
 
-CHATBOT : " ?"
+CHATBOT : "wich type of informations ? [park or animals] ?"
 
-USER : "" 
+USER : "animals" 
 
-CHATBOT : " ?"
+CHATBOT : "In which park  you were ? | All parks: Obora Bertramka Frantiskanska Kampa ?"
 
-USER : ""
+USER : "obora"
 
-CHATBOT : "" 
+CHATBOT : "In obora you have magpies and crow, let's find out what you saw!
+           What was the principal color of the animal ?" 
+
+USER: "white"
+
+CHATBOT: "Interesting ! was there another color? ? [yes no]" 
+
+USER: "YES"
+
+CHATBOT:"what other color was it?"
+
+USER: "BLUE"
+
+CHATBOT: "OK what was the color of its beak ? | help for more information"
+
+USER: "yellow"
+
+CHATBOT: "I'm pretty sure the bird you saw was a magpie!"
+
+CHATBOT: "You want ohter informations ?"
 
 USER : "NO,thanks"
 
@@ -91,7 +110,7 @@ ___________________________________________
 If the users have any problems or need any informatons they can say "HELP" to get the e-mail which can help them for any request.
 The e-mail is : help@praguecollege.cz
 
-In the future, we can involve this chatbot into giving further informations about any location and give more precise informations about any requests from a tourist.
+In the future, we will be able to involve this chatbot to give more information about any place and give more precise information about any request of a tourist. For the moment this chatbot gives information about the birds and Park. 
 
 We are open into welcoming contributors only if they are motivated into helping improve this chatbot taking into account users criticizes.
 They also have to know Prague City precisely. It will be important for the future of this chatbot.
