@@ -5,7 +5,7 @@
 
 
 
-The project is to create a chatbot in Clojure in a teamwork.
+The project here  is to create a chatbot in Clojure in a teamwork.
 We have to follow several conditions which can help any tourists to get precious informations about their activities in this city. 
 
 Our chatbot can give informations, answer simple questions and also simplify the life of foreign tourists effectively.
