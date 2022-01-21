@@ -16,9 +16,9 @@ This chatbot used to be clear, easy to use and follow a ELIZA structure.
 
 ## HOW TO START
 
-First, you need to install clojure, just follow the instruction on: https://clojure.org/guides/getting_started
+First, you need to install clojure into UBUNTU, just follow the instruction on: https://clojure.org/guides/getting_started
 
-Then start with the command "clojure 2project.clj" and followthe instructions.
+Then start the chatbot with the command "clojure 2project.clj" and follow the instructions.
 
 ## USAGE
 
@@ -28,8 +28,8 @@ Only the users who can use this environment can use the chatbot to get informati
 If some toursits want to, they can also use another environment which allow clojure program.
 
 To use this simple chatbot.
-   -  First you have to say "hello"
-   - Then ask your question with keywords
+   - First you have to say "hello"
+   - Then talk with the chatbot and ask your question with keywords
    - if you have any other question about keywords you can say "HELP"
    - At the end, when you get all the informations the program closes with "program finish..." . 
    
