@@ -33,7 +33,7 @@ To use this simple chatbot.
    - if you have any other question about keywords you can say "HELP"
    - At the end, when you get all the informations the program closes with "program finish..." . 
    
-   
+   **Before continuing please type the help command in the chatbot to know all its functionality 
 
 
 
