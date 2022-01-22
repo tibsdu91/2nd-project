@@ -267,8 +267,12 @@ For any questions you can contact help@praguecollege.cz "))
                                 (cond (contains? Rcolor pj)
                                  {(println "Ok what was the color of its beak ?")
                                    (let [pde (read-line)]
-                                     (cond (contains? Rbeak pde)
-                                        (println "I m pretty sure the bird you saw was a Robin")))}))})
+                                     (cond 
+                                       (contains? exit pde)
+                                        (exif)
+                                          (contains? Rbeak pde)
+                                        (println "I m pretty sure the bird you saw was a Robin")
+                                    :else { (println "i think you try to say gray or brown because it's not possible a bird with a"pde"beak and a"pj"color or  we did not offer it to you in this chatbot")(sorting_robin)}))}))})
 
 
                    (cond (contains? No ge)
@@ -281,13 +285,17 @@ For any questions you can contact help@praguecollege.cz "))
    :else { (println "i think you try to say gray or brown because it's not possible a bird with a"dpd"beak and a"hj"color or  we did not offer it to you in this chatbot")(sorting_robin)}))})))})
 
 
+  
      (cond (contains? No ga)
          {(println "OK what was the color of its beak ?")
              (let [sz (read-line)]
               (cond (contains? Rbeak sz)
-              (println "I'm pretty sure the bird was a Robin")))})
-
-      (cond (contains? need_help ga)
+              (println "I'm pretty sure the bird was a Robin")
+              (contains? need_help sz)
+              {(help_type) (sorting_robin)}
+               :else { (println "i think you try to say gray or brown because it's not possible a bird with a"sz"beak and a"ga"color or  we did not offer it to you in this chatbot")(sorting_robin)}))})
+      
+(cond (contains? need_help ga)
           {(help_type) (sorting_robin)})
      (cond (contains? exit ga)
          (exif))))
@@ -509,5 +517,4 @@ For any questions you can contact help@praguecollege.cz "))
 
 
 (programe)
-
 
